@@ -14,7 +14,7 @@
 
 ## LIVE - DEMO 🌐
 
-Visit the 👉 [_LINK 🔗_]()
+Visit the 👉 [_LINK 🔗_](https://flex-gpt-lovat.vercel.app/)
 <!-- https://quick-gpt-ochre.vercel.app/ -->
 
 </div>
