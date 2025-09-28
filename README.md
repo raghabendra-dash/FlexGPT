@@ -10,7 +10,6 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-5.1.0-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![ImageKit](https://img.shields.io/badge/ImageKit-FF0000?style=flat-square&logo=imagekit&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
 ## LIVE - DEMO 🌐
@@ -33,9 +32,10 @@ FLEXGPT is a comprehensive AI content generation platform that provides:
 - 💳 **Credit System**: Flexible pricing with Stripe integration
 - 🔐 **User Management**: Secure authentication and profile management
 
-Built with the MERN stack and integrated with OpenAI's powerful AI models for text and image generation.
+Built with the MERN stack and integrated with OpenAI's powerful AI models for text generation.
 
 ---
+<!--![ImageKit](https://img.shields.io/badge/ImageKit-FF0000?style=flat-square&logo=imagekit&logoColor=white)-->
 
 ## Key Features
 
@@ -292,7 +292,7 @@ We welcome contributions! Please follow these steps:
 
 <div align="center">
 
-**FLEXGPT** - Unleash your creativity with AI! 🚀
+**FLEXGPT** - Unleash your creativity with AI!
 
 *Built with ❤️ using the MERN stack and cutting-edge AI technologies.*
 
