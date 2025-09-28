@@ -27,10 +27,10 @@ export const registerUser = async (req, res) => {
         .json({ success: false, message: "Please enter a valid email" });
     }
 
-    if (password.length < 8) {
+    if (password.length < 4) {
       return res.status(400).json({
         success: false,
-        message: "Password must be at least 8 characters",
+        message: "Password must be at least 4 characters",
       });
     }
 
@@ -103,6 +103,8 @@ export const getPublishedImages = async (req, res) => {
     const publishedImageMessages = await Chat.aggregate([
       { $unwind: "$messages" },
       { $match: { "messages.isImage": true, "messages.isPublished": true } },
+      { $sort: { "messages.createdAt": -1 } },
+      { $limit: 50 },
       {
         $project: {
           _id: 0,
