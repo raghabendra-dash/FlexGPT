@@ -2,12 +2,7 @@
 
 # 🤖 FLEXGPT 
 
-AI-Powered Content Generation Platform
-
-![Last Commit](https://img.shields.io/github/last-commit/elyse502/QuickGPT?style=flat-square) 
-![Languages](https://img.shields.io/github/languages/top/elyse502/QuickGPT?style=flat-square&color=blue)
-![License](https://img.shields.io/badge/license-ISC-blue?style=flat-square)
-![Version](https://img.shields.io/badge/version-1.0.0-success?style=flat-square)
+<h3>AI-Powered Content Generation Platform</h3>
 
 *Powered by cutting-edge AI technologies:*
 
@@ -24,26 +19,6 @@ Visit the 👉 [_LINK 🔗_]()
 <!-- https://quick-gpt-ochre.vercel.app/ -->
 
 </div>
-
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Architecture](#architecture)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Environment Variables](#environment-variables)
-- [AI Capabilities](#ai-capabilities)
-- [API Endpoints](#api-endpoints)
-- [Payment Integration](#payment-integration)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
 
 ---
 
